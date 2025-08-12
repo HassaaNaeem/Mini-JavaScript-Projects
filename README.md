@@ -1,0 +1,5 @@
+"# Mini-JavaScript-Projects" 
+"" 
+"A collection of my JavaScript mini projects:" 
+"" 
+"## Projects" 
